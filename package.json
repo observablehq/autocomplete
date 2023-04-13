@@ -1,5 +1,5 @@
 {
-  "name": "@codemirror/autocomplete",
+  "name": "@observablehq/autocomplete",
   "version": "6.5.0",
   "description": "Autocompletion for the CodeMirror code editor",
   "scripts": {
